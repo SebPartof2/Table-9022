@@ -34,6 +34,8 @@ plugins:
         root_title: warning
         root_hide: warning
         no_matches: warning
+  - tags:
+      enabled: false
 
 markdown_extensions:
   - attr_list
