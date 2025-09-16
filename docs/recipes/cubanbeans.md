@@ -1,6 +1,9 @@
 ---
 tags:
     - side
+    - sides
+    - weeknight
+    - easy
 ---
 # Cuban Black Beans with Rice
 Delicious black beans for your tacos or to even eat by themselves.
