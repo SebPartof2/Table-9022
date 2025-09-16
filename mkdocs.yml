@@ -21,3 +21,8 @@ plugins:
         root_title: warning
         root_hide: warning
         no_matches: warning
+
+markdown_extensions:
+  - attr_list
+  - md_in_html
+  - pymdownx.blocks.caption
