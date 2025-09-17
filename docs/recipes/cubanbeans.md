@@ -20,7 +20,7 @@ Delicious black beans for your tacos or to even eat by themselves.
     1 teaspoon ground cumin  
     2 15.5 ounce cans black beans, rinsed  
     1 teaspoon dried oregano  
-    1 tablespoon red wine vinegar  
+    1 tablespoon red wine or apple cider vinegar  
     4 radishes, cut into ½ inch pieces  
     ¼ cup fresh cilantro  
 
@@ -36,6 +36,6 @@ Enjoy!  🇨🇺🇨🇺🇨🇺
 ## Credits
 ??? tip "Contributors"
 
-    Recipe provide by Amalia Kendall  
+    Recipe provided by Amalia Kendall  
     Orginal recipe by Maria Targett  
     Adapted for Markdown by Sebastian Kang
