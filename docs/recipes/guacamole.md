@@ -1,9 +1,16 @@
+---
+tags:
+    - side
+    - sides
+    - weeknight
+    - moderate
+---
 # Homemade Guacamole
 This is a delious guac recipe used by the Kang household on their weekly taco nights.
 ## Ingredients
 ???+ abstract "Ingredients"
 
-    Serves 3:
+    Serves 3:  
     2 avocados  
     1/4 of an onion  
     handful of cilantro (to liking)  
